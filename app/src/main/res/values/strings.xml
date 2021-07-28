@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OurNDPSongs</string>
+    <string name="title_activity_main">OurNDPSongs Title</string>
+    <string name="title_activity_second">DisplayNDPSongs</string>
+    <string name="title_activity_third">EditNDPSongs</string>
+    <string-array name="spinnerItems">
+        <item>5Stars</item>
+
+    </string-array>
+</resources>
